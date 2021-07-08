@@ -1,1 +1,1 @@
-# boatmoving animation with beautiful visual effect using HTML & CSS
+# Boat moving animation with beautiful visual effect using HTML & CSS
